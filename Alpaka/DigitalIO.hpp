@@ -1,4 +1,4 @@
-//#include "sam.h"
+#include "sam.h"
 
 #define OUTPUT true
 #define INPUT false
