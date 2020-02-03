@@ -1,6 +1,5 @@
-//#include "sam.h"
+#include "sam.h"
 #include "DigitalIO.hpp"
-//#include <iostream>
 
 DigitalOut::DigitalOut(char reg_i, unsigned char pin_i,bool mode_i){
     pin = pin_i;
